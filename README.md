@@ -1,15 +1,15 @@
 Mars Data Analysis Part 1
 
-#Overview:
+Overview:
 This section of the project focuses on scraping titles and preview text from Mars news articles.
 
-#Requirements:
+Requirements:
 To run the code, ensure you have the following libraries installed:
 
 - splinter
 - beautifulsoup4
 
-#Usage
+Usage
 1. Clone the repository to your local machine:
 
 git clone <repository_url>
@@ -30,12 +30,12 @@ part_1_mars_news.ipynb
 5. Store in Dictionaries: Store each title and preview text pair in a Python dictionary.
 6. Print Results: Print the list of dictionaries containing scraped data.
 
-#Results:
+Results:
 - The scraped data includes a list of dictionaries containing titles and preview texts of Mars news articles.
 
 Mars Data Analysis Part 2
 
-#Overview:
+Overview:
 This section of the project involves scraping and analyzing Mars weather data, which exists in a table format. The analysis includes:
 
 - Scraping the data using Splinter and BeautifulSoup.
@@ -43,7 +43,7 @@ This section of the project involves scraping and analyzing Mars weather data, w
 - Analyzing the dataset to answer specific questions.
 - Visualizing the results using Matplotlib.
 
-#Requirements:
+Requirements:
 To run the code, ensure you have the following libraries installed:
 
 - splinter
@@ -51,7 +51,7 @@ To run the code, ensure you have the following libraries installed:
 - pandas
 - matplotlib
 
-#Instructions:
+Instructions:
 1. Import Libraries: Import relevant libraries including Splinter, BeautifulSoup, Matplotlib, and Pandas.
 2. Visit Website: Use Splinter to visit the Mars weather data website.
 3. Create Beautiful Soup Object: Create a Beautiful Soup object to parse the HTML.
