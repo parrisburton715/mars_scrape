@@ -1,6 +1,6 @@
-##Mars Data Analysis Part 1
+Mars Data Analysis Part 1
 
-#Overview:
+Overview:
 This section of the project focuses on scraping titles and preview text from Mars news articles.
 
 Requirements:
